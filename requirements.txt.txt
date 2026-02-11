@@ -1,0 +1,7 @@
+flask
+flask-cors
+tensorflow
+transformers
+torch
+numpy
+gunicorn
